@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #58529e;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: MyriadConceptRoman-Condensed, 'Myriad Variable Concept';
+        font-size: 10px;
+        font-variation-settings: 'wght' 400, 'wdth' 70;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <circle class="cls-1" cx="42.5" cy="42.5" r="42.5"/>
+      <polygon class="cls-2" points="35.12 61.1 33.55 73.76 24.19 74.71 32.65 76.38 49.92 76.38 58.15 74.95 49.45 74.23 48.25 60.14 35.12 61.1"/>
+      <rect class="cls-2" x="7.83" y="20.02" width="68.6" height="44.42"/>
+      <rect class="cls-1" x="11.71" y="23.16" width="61.38" height="37.41"/>
+      <text class="cls-3" transform="translate(12.15 45.14)"><tspan x="0" y="0">02</tspan><tspan class="cls-4" x="7.7" y="0">-</tspan><tspan class="cls-5" x="10.41" y="0">A</tspan><tspan x="14.56" y="0">C-05-98-F3-16</tspan></text>
+    </g>
+  </g>
+</svg>
